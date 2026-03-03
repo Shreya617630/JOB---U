@@ -1,4 +1,4 @@
-# 💼 JobHunt
+# 💼 JOB-U
 
 A full-stack job tracking and application management platform that helps users search, save, and monitor job applications efficiently.
 
