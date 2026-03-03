@@ -42,8 +42,8 @@ A full-stack job tracking and application management platform that helps users s
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/saininavdeep25/job-hunt.git
-cd job-hunt
+git clone https://github.com/Shreya617630/jOB-U.git
+cd job-U
 ```
 2. **For server (.env)**
 MONGO_URI=your_mongo_connection_string
